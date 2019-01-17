@@ -1,5 +1,6 @@
 # ima3_test
 Update Readme
 
-Masteränderung, um autom. Merge zu verhindern / dem neuen Zweig
+
+nächste Änderung, um automatisches Mergen zu verhindern  / dem neuen Zweig
 inkl. Headeränderung
