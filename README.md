@@ -1,5 +1,5 @@
 # ima3_test
 Update Readme
 
-erster Kommentar im Branch1 / dem neuen Zweig
+nächste Änderung, um automatisches Mergen zu verhindern  / dem neuen Zweig
 inkl. Headeränderung
